@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554345192671",
+    "project_id": "ar-wardrobe",
+    "storage_bucket": "ar-wardrobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554345192671:android:687e3340b460c24aaa9d6a",
+        "android_client_info": {
+          "package_name": "com.example.fyp_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554345192671-o2jea4vbjefvdrk20ocquogcih1oinrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpGlDrNmMUOr3FPwn7UUB8rVUXfmtq6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554345192671-o2jea4vbjefvdrk20ocquogcih1oinrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
